@@ -30,7 +30,7 @@ they will be listed as a file to include and drive installs from.
 License
 =======
 
-Copyright 2020 Wayne Kirk Schmidt
+Copyright 2020 - 2022 Wayne Kirk Schmidt
 https://www.linkedin.com/in/waynekirkschmidt
 
 Licensed under the Apache 2.0 License (the "License");
